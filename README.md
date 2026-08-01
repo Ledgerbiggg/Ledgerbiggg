@@ -1,40 +1,43 @@
-                 Ledgerbiggg
-          Backend Developer / Cloud Native
+<p align="center">
+  <a href="https://github.com/Ledgerbiggg">
+    <img src="https://img.shields.io/github/followers/Ledgerbiggg?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <img src="https://img.shields.io/github/stars/Ledgerbiggg?label=Stars&style=social" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=Ledgerbiggg&label=Profile%20Views" alt="Profile Views">
+</p>
 
 
-[ Followers ] [ Stars ] [ Commits ] [ Views ]
+<p align="center">
+  <img src="https://img.shields.io/badge/name-Ledgerbiggg-blue" alt="Name">
+  <img src="https://img.shields.io/badge/role-Backend%20Developer-green" alt="Role">
+  <img src="https://img.shields.io/badge/language-Go%20%7C%20Vue%20%7C%20TypeScript-blueviolet" alt="Stack">
+</p>
 
 
-        GitHub Statistics
+<br/>
 
 
-┌──────────────────────────┐
-│ Total Stars              │
-│ Total Commits            │
-│ Contributions            │
-│ PRs                      │
-│ Issues                   │
-└──────────────────────────┘
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ledgerbiggg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ledgerbiggg&layout=compact&theme=dracula&langs_count=8" height="180"/>
+</p>
 
 
-        Languages
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ledgerbiggg&theme=dracula" />
+</p>
 
 
-Go        █████████
-TypeScript █████
-Vue        ███
-Python     ██
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ledgerbiggg&theme=dracula&column=7" />
+</p>
 
 
-        Tech Stack
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ledgerbiggg&theme=dracula" />
+</p>
 
 
-Go | Gin | Vue3 | Docker | Linux
-
-
-        Projects
-
-
-🐳 Docker Platform
-🤖 AI Assistant
-📈 Crypto Data System
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ledgerbiggg&theme=dracula" />
+</p>
