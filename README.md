@@ -1,19 +1,40 @@
-<p align="center">
-  <a href="https://github.com/Ledgerbiggg">
-    <img src="https://img.shields.io/github/followers/Ledgerbiggg?label=Follow&style=social" alt="Github">
-  </a>
-  <img src="https://img.shields.io/badge/name-Ledgerbiggg-blue" alt="badge">
-  <img src="https://komarev.com/ghpvc/?username=Ledgerbiggg" alt="profile views">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ledgerbiggg/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ledgerbiggg&layout=compact" />
-  </a>
-  <br/>
-  <a href="https://github.com/Ledgerbiggg/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ledgerbiggg&theme=dracula&show_icons=true&langs_count=5" />
-  </a>
-</p>
+                 Ledgerbiggg
+          Backend Developer / Cloud Native
 
 
+[ Followers ] [ Stars ] [ Commits ] [ Views ]
+
+
+        GitHub Statistics
+
+
+┌──────────────────────────┐
+│ Total Stars              │
+│ Total Commits            │
+│ Contributions            │
+│ PRs                      │
+│ Issues                   │
+└──────────────────────────┘
+
+
+        Languages
+
+
+Go        █████████
+TypeScript █████
+Vue        ███
+Python     ██
+
+
+        Tech Stack
+
+
+Go | Gin | Vue3 | Docker | Linux
+
+
+        Projects
+
+
+🐳 Docker Platform
+🤖 AI Assistant
+📈 Crypto Data System
