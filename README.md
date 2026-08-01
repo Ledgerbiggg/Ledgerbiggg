@@ -8,33 +8,23 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/name-Ledgerbiggg-blue" alt="Name">
-  <img src="https://img.shields.io/badge/role-Backend%20Developer-green" alt="Role">
-  <img src="https://img.shields.io/badge/language-Go%20%7C%20Vue%20%7C%20TypeScript-blueviolet" alt="Stack">
+  <img src="https://img.shields.io/badge/name-Ledgerbiggg-blue">
+  <img src="https://img.shields.io/badge/role-Backend%20Developer-green">
+  <img src="https://img.shields.io/badge/stack-Go%20%7C%20Vue%20%7C%20TypeScript-blueviolet">
 </p>
 
 
-<br/>
+<br>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ledgerbiggg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ledgerbiggg&layout=compact&theme=dracula&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ledgerbiggg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ledgerbiggg&layout=compact&theme=dracula&langs_count=8" height="180"/>
 </p>
 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ledgerbiggg&theme=dracula" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ledgerbiggg&theme=dracula&column=7" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ledgerbiggg&theme=dracula" />
 </p>
 
 
